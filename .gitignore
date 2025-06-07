@@ -361,3 +361,17 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Assets/Editor/com.unity.mobile.notifications
+/Assets/FigmaImporter/Renders
+/Assets/Adaptive Performance
+/Assets/xNode-master
+/Library
+/ProjectSettings
+/Temp
+/UserSettings
+/Assets/Shadows/FigmaImporter
+/Assets/Shadows/Prefabs/UI/Choise
+/Assets/Shadows/TextMesh Pro
+/Assets/Shadows/TutorialInfo
+/Assets/Shadows/Scenes
+*.csproj
