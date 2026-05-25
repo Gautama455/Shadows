@@ -10,7 +10,7 @@ namespace Game.Controller
         public event ICommand.CompleteHandler Complete;
         private IViewBackground _view;
         private IModelBackground _model;
-
+        // коммент
         public BackgroundController(IModelBackground model, IViewBackground view)
         {
             _model = model;
